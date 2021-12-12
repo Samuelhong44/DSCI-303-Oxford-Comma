@@ -1,0 +1,1 @@
+Leveraging machine learning algorithms to solve a classification problem concerning the usage or non-usage of the Oxford comma given a set of answers to survey questions and demographic information. Dataset can be found here: https://github.com/fivethirtyeight/data/blob/master/comma-survey/comma-survey.csv
